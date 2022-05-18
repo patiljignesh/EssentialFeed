@@ -53,10 +53,18 @@
 			children = (
 				017469382834CDAC00DA6EAD /* EssentialFeed.h */,
 				017469392834CDAC00DA6EAD /* EssentialFeed.docc */,
+				017469462834CFCF00DA6EAD /* Feed Feature */,
+			);
+			path = EssentialFeed;
+			sourceTree = "<group>";
+		};
+		017469462834CFCF00DA6EAD /* Feed Feature */ = {
+			isa = PBXGroup;
+			children = (
 				017469412834CDC700DA6EAD /* FeedItem.swift */,
 				017469432834CF0D00DA6EAD /* FeedLoader.swift */,
 			);
-			path = EssentialFeed;
+			path = "Feed Feature";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
